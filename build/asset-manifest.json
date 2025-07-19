@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Jeel-Portfolio/static/css/main.25b6a774.css",
+    "main.js": "/Jeel-Portfolio/static/js/main.c139f306.js",
+    "static/css/487.bb36206c.chunk.css": "/Jeel-Portfolio/static/css/487.bb36206c.chunk.css",
+    "static/js/487.7ae187c0.chunk.js": "/Jeel-Portfolio/static/js/487.7ae187c0.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/Jeel-Portfolio/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.567a0b93.chunk.js": "/Jeel-Portfolio/static/js/990.567a0b93.chunk.js",
+    "static/media/kskpLogo.png": "/Jeel-Portfolio/static/media/kskpLogo.45e91553f1780d4f846d.png",
+    "static/media/Montserrat-Regular.ttf": "/Jeel-Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/gcetLogo.png": "/Jeel-Portfolio/static/media/gcetLogo.225107990100d132ac37.png",
+    "static/media/Agustina.woff": "/Jeel-Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/pmsLogo.png": "/Jeel-Portfolio/static/media/pmsLogo.de008f5126ec4ede8000.png",
+    "static/media/manOnTable.svg": "/Jeel-Portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/shadowLogo.png": "/Jeel-Portfolio/static/media/shadowLogo.37ca85a3f76b04a44d29.png",
+    "static/media/iotLogo.png": "/Jeel-Portfolio/static/media/iotLogo.803c47df6455ccb8286e.png",
+    "static/media/tatvasoftLogo.png": "/Jeel-Portfolio/static/media/tatvasoftLogo.bcac917273046dd4acba.png",
+    "static/media/contactMailDark.svg": "/Jeel-Portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Jeel-Portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/imsLogo.png": "/Jeel-Portfolio/static/media/imsLogo.eda32235f91fbd5fc0ab.png",
+    "static/media/gtuLogo.png": "/Jeel-Portfolio/static/media/gtuLogo.f9380a75f176b23af816.png",
+    "static/media/skill.svg": "/Jeel-Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/Jeel-Portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/Jeel-Portfolio/index.html",
+    "static/media/talksCardBack.svg": "/Jeel-Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.25b6a774.css.map": "/Jeel-Portfolio/static/css/main.25b6a774.css.map",
+    "main.c139f306.js.map": "/Jeel-Portfolio/static/js/main.c139f306.js.map",
+    "487.bb36206c.chunk.css.map": "/Jeel-Portfolio/static/css/487.bb36206c.chunk.css.map",
+    "487.7ae187c0.chunk.js.map": "/Jeel-Portfolio/static/js/487.7ae187c0.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/Jeel-Portfolio/static/css/990.c6a7ee28.chunk.css.map",
+    "990.567a0b93.chunk.js.map": "/Jeel-Portfolio/static/js/990.567a0b93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b6a774.css",
+    "static/js/main.c139f306.js"
+  ]
+}
